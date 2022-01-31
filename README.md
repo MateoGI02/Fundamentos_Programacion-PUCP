@@ -1,0 +1,2 @@
+# Fundamentos_Programacion-PUCP
+Este repositorio incluye todos los programas creados para el aprendizaje y uso del Lenguaje C. Incluye todo lo necesario para comprender y manipular lógica dentro de la resolución de problemas en lenguaje C y es preliminar al repositorio de Microcontroladores. Estos problemas forman parte del curso de Fundamentos de Programación ofrecido por la Pontificia Universidad Católica del Perú.
